@@ -1,0 +1,7 @@
+<configuration>
+    <property>
+		<name>dfs.secondary.http.address</name>
+		<value>hdfs://localhost:50090</value>
+		<description>SecondaryNameNodeHostname</description>
+    </property>
+</configuration>
