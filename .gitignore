@@ -3,7 +3,7 @@
 .project
 # Log file
 *.log
-
+TwitterDataCollection/JSONParsingDIC/.idea/*
 # BlueJ files
 *.ctxt
 
